@@ -1,3 +1,7 @@
+/* 
+ * this component is for revision.
+*/
+
 import { useState } from "react";
 import { data } from "./data";
 
